@@ -1,4 +1,4 @@
 module.exports = {
-  mongoURI: "mongodb://192.168.6.171:27017/kwan",
+  mongoURI: "mongodb+srv://keely:keely@devconnector-60u57.mongodb.net/tutorial",
   secretOrKey: 'secret'
 };
